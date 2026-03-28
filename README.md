@@ -1,41 +1,52 @@
 # 👋 Olá, eu sou o Vitor
 
-Profissional em transição de carreira para Análise de Dados, com forte experiência prática no uso de Inteligência Artificial aplicada (ChatGPT, Copilot, Perplexity) para automação, análise e geração de insights.
-
-Minha trajetória profissional me trouxe uma visão orientada a negócios, o que hoje aplico na análise de dados para resolver problemas reais.
-
----
-
-## 🚀 Habilidades
-
-- Python (Pandas, Numpy, Matplotlib, Seaborn)
-- SQL
-- Análise Exploratória de Dados (EDA)
-- Limpeza e Tratamento de Dados
-- Data Storytelling
-- Inteligência Artificial aplicada a produtividade e análise
+🎯 Analista de Dados Jr com foco em Prevenção a Fraudes  
+📍 Jundiaí - SP  
 
 ---
 
-## 📊 Projetos em destaque
+## 🧠 Sobre mim
 
-### 🔍 Análise de Fraudes em Transações Financeiras
-Projeto focado na identificação de padrões suspeitos em transações financeiras utilizando Python.
+Profissional com forte background em gestão de negócios e análise de KPIs, atualmente focado em dados e prevenção a fraudes.
 
-**Principais entregas:**
-- Limpeza e tratamento de dados
-- Identificação de padrões de fraude
-- Análise comportamental de transações
-- Geração de insights acionáveis
+Desenvolvo projetos práticos com SQL, Python e Power BI voltados para:
+- Detecção de fraude
+- Análise de chargeback
+- Monitoramento de KPIs
+- Análise de comportamento transacional
+
+---
+
+## 🛠️ Stack
+
+- SQL (PostgreSQL, SQLite)
+- Python (Pandas)
+- Power BI
+- Excel
+- Git & GitHub
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔍 Fraud Detection Analysis
+Análise de transações suspeitas com regras de risco  
+👉 https://github.com/DevCarvalhal/fraud-detection-sql-python
+
+### 💳 Chargeback Risk Analysis
+Identificação de clientes de alto risco  
+👉 (vamos criar já já)
+
+### 📊 Fraud KPI Dashboard
+Monitoramento de indicadores de fraude  
+👉 (vamos criar já já)
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como Analista de Dados, aplicando análise estratégica e tecnologia para gerar valor real ao negócio.
+Atuar como Analista de Dados Jr ou Analista de Fraude Jr, aplicando análise de dados para reduzir riscos e apoiar decisões estratégicas.
 
 ---
 
-## 💡 Diferencial
-
-Uso prático de IA no dia a dia para acelerar análises, automatizar processos e gerar insights com mais eficiência.
+📫 LinkedIn: https://www.linkedin.com/in/vitor-carvalhal/

@@ -1,52 +1,36 @@
-# 👋 Olá, eu sou o Vitor
+# Olá, eu sou o Vitor Carvalhal
 
-🎯 Analista de Dados Jr com foco em Prevenção a Fraudes  
-📍 Jundiaí - SP  
+Junior Data Analyst com foco em Prevenção a Fraudes, análise de risco e construção de indicadores para apoio à tomada de decisão.
 
----
-
-## 🧠 Sobre mim
-
-Profissional com forte background em gestão de negócios e análise de KPIs, atualmente focado em dados e prevenção a fraudes.
-
-Desenvolvo projetos práticos com SQL, Python e Power BI voltados para:
-- Detecção de fraude
-- Análise de chargeback
-- Monitoramento de KPIs
-- Análise de comportamento transacional
-
----
-
-## 🛠️ Stack
-
-- SQL (PostgreSQL, SQLite)
-- Python (Pandas)
+## Stack
+- SQL
+- Python
+- Pandas
 - Power BI
 - Excel
 - Git & GitHub
 
----
+## Projetos em destaque
 
-## 🚀 Projetos em destaque
+### Fraud Detection Analysis
+Projeto de detecção de transações suspeitas com SQL e Python.  
+🔗 https://github.com/DevCarvalhal/fraud-detection-sql-python
 
-### 🔍 Fraud Detection Analysis
-Análise de transações suspeitas com regras de risco  
-👉 https://github.com/DevCarvalhal/fraud-detection-sql-python
+### Chargeback Risk Analysis
+Projeto de análise de chargeback com foco em clientes de alto risco e perdas financeiras.  
+🔗 https://github.com/DevCarvalhal/chargeback-risk-analysis
 
-### 💳 Chargeback Risk Analysis
-Identificação de clientes de alto risco  
-👉 (vamos criar já já)
+### Fraud KPI Dashboard
+Projeto de monitoramento de indicadores de fraude com Python.  
+🔗 https://github.com/DevCarvalhal/fraud-kpi-dashboard
 
-### 📊 Fraud KPI Dashboard
-Monitoramento de indicadores de fraude  
-👉 (vamos criar já já)
+### Pomodoro Timer
+Projeto frontend com HTML, CSS e JavaScript, incluindo localStorage, lista de tarefas e deploy.  
+🔗 https://github.com/DevCarvalhal/pomodoro
 
----
+## Objetivo
+Atuar como Analista de Dados Jr, Analista de Fraude Jr ou Analista de Risco Jr, aplicando análise de dados para identificar padrões, reduzir perdas e apoiar decisões estratégicas.
 
-## 🎯 Objetivo
-
-Atuar como Analista de Dados Jr ou Analista de Fraude Jr, aplicando análise de dados para reduzir riscos e apoiar decisões estratégicas.
-
----
-
-📫 LinkedIn: https://www.linkedin.com/in/vitor-carvalhal/
+## Contato
+- LinkedIn: https://www.linkedin.com/in/vitor-carvalhal/
+- GitHub: https://github.com/DevCarvalhal

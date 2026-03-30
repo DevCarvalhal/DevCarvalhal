@@ -1,57 +1,72 @@
-# Olá, eu sou o Vitor Carvalhal
+# Hi, I'm Vitor Carvalhal
 
-Data Analyst com foco em Prevenção a Fraudes, análise de risco e desenvolvimento de soluções analíticas para apoio à tomada de decisão.
+Based in Brazil | Open to remote opportunities
 
-## Stack
+Data Analyst focused on Fraud & Risk Analytics, building data-driven solutions to detect suspicious behavior, create risk scoring models and support decision-making in fintech-like environments.
 
-* SQL (PostgreSQL)
-* Python (Pandas, NumPy)
-* Power BI
-* Tableau
-* Excel
-* Git & GitHub
+---
 
-## Projetos em destaque
+## Core Skills
+
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy)
+- Power BI & Tableau
+- Fraud & Risk Analytics
+- Data Visualization
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+### Fraud Detection Rules Engine (SQL)
+SQL-based fraud detection system simulating real-world fintech operations, including rule creation, risk scoring and investigation prioritization.
+
+🔗 https://github.com/DevCarvalhal/fraud-rules-engine-sql
+
+---
 
 ### Fraud Detection Analytics Case
+End-to-end fraud analytics project with data generation, SQL modeling, fraud rules, risk scoring and dashboards.
 
-Projeto end-to-end simulando um ambiente real de fintech, com geração de dados, modelagem SQL, regras de fraude, score de risco e dashboards analíticos.
 🔗 https://github.com/DevCarvalhal/fraud-detection-analytics-case
 
-### Fraud Detection Analysis
+---
 
-Projeto de detecção de transações suspeitas com SQL e Python.
+### Fraud Detection Analysis (SQL + Python)
+Detection of suspicious transactions using SQL and Python with behavioral analysis and risk insights.
+
 🔗 https://github.com/DevCarvalhal/fraud-detection-sql-python
 
-### Chargeback Risk Analysis
+---
 
-Projeto de análise de chargeback com foco em clientes de alto risco e perdas financeiras.
+### Chargeback Risk Analysis
+Analysis of chargeback patterns focusing on high-risk customers and financial impact.
+
 🔗 https://github.com/DevCarvalhal/chargeback-risk-analysis
 
-### Fraud KPI Dashboard
+---
 
-Projeto de monitoramento de indicadores de fraude com Python.
-🔗 https://github.com/DevCarvalhal/fraud-kpi-dashboard
+## Key Competencies
 
-### Pomodoro Timer
+- Transaction behavior analysis
+- Fraud detection and pattern recognition
+- Risk scoring model development
+- Advanced SQL (CTEs, aggregations, temporal analysis)
+- Data storytelling and dashboards
+- Python for data analysis
 
-Projeto frontend com HTML, CSS e JavaScript, incluindo localStorage, lista de tarefas e deploy.
-🔗 https://github.com/DevCarvalhal/pomodoro
+---
 
-## Principais competências
+## Current Focus
 
-* Análise de comportamento transacional
-* Detecção de padrões suspeitos e fraude
-* Construção de regras e score de risco
-* Consultas SQL avançadas (CTEs, agregações, análises temporais)
-* Criação de dashboards executivos e investigativos
-* Tratamento e análise de dados com Python
+- Fraud investigation using SQL
+- Risk scoring models
+- Business-driven data projects
 
-## Objetivo
+---
 
-Atuar como Analista de Dados, Analista de Fraude ou Analista de Risco, contribuindo com análises que gerem impacto direto na redução de perdas e melhoria de decisões estratégicas.
+## Contact
 
-## Contato
-
-* LinkedIn: https://www.linkedin.com/in/vitor-carvalhal/
-* GitHub: https://github.com/DevCarvalhal
+- LinkedIn: https://www.linkedin.com/in/vitor-carvalhal/
+- GitHub: https://github.com/DevCarvalhal

@@ -1,68 +1,51 @@
-# Hi, I'm Vitor Carvalhal
+# Data Analyst | Fraud & Risk Analytics
 
-Based in Brazil | Open to remote opportunities
-
-Data Analyst focused on Fraud & Risk Analytics, building data-driven solutions to detect suspicious behavior, create risk scoring models and support decision-making in fintech-like environments.
+I am a Data Analyst focused on Fraud Prevention, Risk Analysis, and Data-Driven Decision Making.  
+My work combines SQL, Python, and BI tools to analyze complex systems and generate actionable insights.
 
 ---
 
-## Core Skills
+## What I Do
 
-- SQL (PostgreSQL)
+- Fraud detection and risk analysis
+- SQL-based data investigation (CTEs, window functions)
+- KPI design and performance analysis
+- Data visualization (Power BI, Tableau)
+- Analytical storytelling for decision-making
+
+---
+
+## Core Tools
+
+- SQL (PostgreSQL, SQLite)
 - Python (Pandas, NumPy)
-- Power BI & Tableau
-- Fraud & Risk Analytics
-- Data Visualization
+- Power BI
+- Tableau
+- Excel
 - Git & GitHub
 
 ---
 
 ## Featured Projects
 
-### Fraud Detection Rules Engine (SQL)
-SQL-based fraud detection system simulating real-world fintech operations, including rule creation, risk scoring and investigation prioritization.
+### Fraud & Risk Analytics
+- Chargeback Risk Analysis
+- Fraud Detection (SQL + Python)
+- Fraud Rules Engine (SQL)
+- Fraud Investigation Case (SQL)
 
-🔗 https://github.com/DevCarvalhal/fraud-rules-engine-sql
-
----
-
-### Fraud Detection Analytics Case
-End-to-end fraud analytics project with data generation, SQL modeling, fraud rules, risk scoring and dashboards.
-
-🔗 https://github.com/DevCarvalhal/fraud-detection-analytics-case
-
----
-
-### Fraud Detection Analysis (SQL + Python)
-Detection of suspicious transactions using SQL and Python with behavioral analysis and risk insights.
-
-🔗 https://github.com/DevCarvalhal/fraud-detection-sql-python
-
----
-
-### Chargeback Risk Analysis
-Analysis of chargeback patterns focusing on high-risk customers and financial impact.
-
-🔗 https://github.com/DevCarvalhal/chargeback-risk-analysis
-
----
-
-## Key Competencies
-
-- Transaction behavior analysis
-- Fraud detection and pattern recognition
-- Risk scoring model development
-- Advanced SQL (CTEs, aggregations, temporal analysis)
-- Data storytelling and dashboards
-- Python for data analysis
+### Business Intelligence & Analytics
+- Public Healthcare Performance Analysis (Brazil)
+- Fraud Detection Analytics Dashboard
 
 ---
 
 ## Current Focus
 
-- Fraud investigation using SQL
-- Risk scoring models
-- Business-driven data projects
+- Fraud & Risk Analytics
+- Advanced SQL for behavioral analysis
+- Building real-world analytics projects
+- Preparing for international opportunities
 
 ---
 
